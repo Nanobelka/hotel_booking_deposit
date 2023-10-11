@@ -1,5 +1,7 @@
 # [Модель, прогнозирующая отказ от брони в отеле](https://nbviewer.jupyter.org/github/Nanobelka/hotel_booking_deposit/blob/main/hotel_deposit.ipynb)
+
 ## На основании ряда характеристик заказа создать систему, предсказывающую отказ от заказанного номера
+
 ##### Project for [Yandex.Praktikum](https://github.com/Nanobelka/Yandex_Praktikum)
 
 **Заказчик:** сеть отелей.
